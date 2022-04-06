@@ -1,5 +1,6 @@
 import pytest
 import requests
+import os
 
 
 base_url = os.environ['base_url']
